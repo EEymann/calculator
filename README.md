@@ -17,7 +17,7 @@ _This calculator...._
 
 ## Technologies Used
 
-_HTML, CSS_
+_HTML, CSS, JAVASCRIPT_
 
 ### License
 
